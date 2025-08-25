@@ -1,0 +1,14 @@
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\bin\Debug\net8.0\jejejejej_program_rocks.exe
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\bin\Debug\net8.0\jejejejej_program_rocks.deps.json
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\bin\Debug\net8.0\jejejejej_program_rocks.runtimeconfig.json
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\bin\Debug\net8.0\jejejejej_program_rocks.dll
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\bin\Debug\net8.0\jejejejej_program_rocks.pdb
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\obj\Debug\net8.0\jejejejej_program_rocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\obj\Debug\net8.0\jejejejej_program_rocks.AssemblyInfoInputs.cache
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\obj\Debug\net8.0\jejejejej_program_rocks.AssemblyInfo.cs
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\obj\Debug\net8.0\jejejejej_program_rocks.csproj.CoreCompileInputs.cache
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\obj\Debug\net8.0\jejejejej_program_rocks.dll
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\obj\Debug\net8.0\refint\jejejejej_program_rocks.dll
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\obj\Debug\net8.0\jejejejej_program_rocks.pdb
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\obj\Debug\net8.0\jejejejej_program_rocks.genruntimeconfig.cache
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\obj\Debug\net8.0\ref\jejejejej_program_rocks.dll
