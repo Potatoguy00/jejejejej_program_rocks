@@ -1,0 +1,30 @@
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 3 arv\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\elias.paulssonfebo\Desktop\jejejejej_program_rocks\projekt 4\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

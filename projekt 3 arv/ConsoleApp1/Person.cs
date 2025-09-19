@@ -9,34 +9,31 @@ namespace arv
     class Person //bas-klass för personer
     {
 
-        //skapar tomma strängar för namn, telefonnummer, bilmodellen och bilregistreringsnummer
+        // Fält för namn, telefonnummer, bilmodell och bilregistreringsnummer
         private string namn;
         private string telefon;
 
         private string CarModel;
         private int CarRegNr;
 
-        //konstruktor som tar in namn, telefonnummer, bilmodell och bilregistreringsnummer
-        public Person(string namn, string telefon, string CarModel, int CarRegNr)
+
+        public Person(string namn, string telefon, string CarModel, int CarRegNr)  //konstruktor som tar in namn, telefonnummer, bilmodell och bilregistreringsnummer
         {
-            this.namn = namn;
-            this.telefon = telefon;
-            this.CarModel = CarModel;
-            this.CarRegNr = CarRegNr;
+            this.namn = namn; //sätter fältet namn till det som skrivs in
+            this.telefon = telefon; //sätter fältet telefon till det som skriv in
+            this.CarModel = CarModel; //sätter fältet CarModel till det som skrivs in
+            this.CarRegNr = CarRegNr; //sätter fältet CarRegNr till det som skrivs in
         }
 
-        //returnerar personens namn
-        public string GetNamn()
+
+        public string GetNamn() //returnerar personens namn
         {
             return namn;
         }
-        //returnerar personens telefonnummer
-        public string GetTelefon() => telefon;
+        public string GetTelefon() => telefon; //returnerar personens telefonnummer
 
-        //returnerar personens bilmodell
-        public string GetCarModel() => CarModel;
+        public string GetCarModel() => CarModel; //returnerar personens bilmodell
 
-        //returnerar personens bilregistreringsnummer
-        public int GetCarRegNr() => CarRegNr;
+        public int GetCarRegNr() => CarRegNr; //returnerar personens bilregistreringsnummer
     }
 }

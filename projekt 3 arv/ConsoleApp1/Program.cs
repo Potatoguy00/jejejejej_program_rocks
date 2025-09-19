@@ -12,7 +12,7 @@ namespace arv
             string CustomerTelephone = String.Empty;
 
             //skapar en customer-instans med namn, telefonnummer, inskrivningsår, om kåravgiften är betald, bilmodell och bilregistreringsnummer
-            Customer Customer1 = new Customer("CHAM", "0752879", 2021, false, "ford", 999);
+            Customer Customer1 = new Customer("CHAM", "0752879", 2021, false, "ford", 999); 
             CustomerName = Customer1.GetNamn(); //hämtar kundens namn
             Customer1.PrintInfo(); //Skriver ut info om kunden
 
